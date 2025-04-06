@@ -23,10 +23,11 @@ Desenvolver um currículo online utilizando **tags HTML** aprendidas em sala de 
 
 ## 🎯 Funcionalidades  
 ✅ **Seções organizadas**:  
-- Dados pessoais  
+- Sobre mim  
 - Formação acadêmica  
 - Experiência profissional  
-- Habilidades técnicas  
+- Habilidades técnicas
+- Endereço 
 
 ✅ **Navegação interna** via iframe.  
 ✅ **Links externos** (LinkedIn, GitHub).  
