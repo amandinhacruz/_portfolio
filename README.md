@@ -1,6 +1,6 @@
 # 📄 Currículo Online  
 
-**Atividade da disciplina "Codificação e Linguagens de Programação"**  
+**Atividade da disciplina "Coding - Linguagens e Técnicas"**  
 *Ministrada pelo Prof. Danilo Farias*  
 
 ---
