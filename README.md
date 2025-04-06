@@ -26,7 +26,8 @@ Desenvolver um currículo online utilizando **tags HTML** aprendidas em sala de 
 - Sobre mim  
 - Formação acadêmica  
 - Experiência profissional  
-- Habilidades técnicas
+- Habilidades
+- Cursos Adicionais
 - Endereço 
 
 ✅ **Navegação interna** via iframe.  
